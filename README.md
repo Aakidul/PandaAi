@@ -6,7 +6,7 @@ The Generative Mini Language Model (GMLM), pioneered by Aakidul, is designed for
     <meta charset="UTF-8">
 </head>
 <body>
-    <img src="https://i.pinimg.com/564x/94/f7/14/94f7146e06e2c607dcfaedf401576205.jpg" alt="Cute Panda Cartoon Leaning on Wall">
+    <img src="" alt="IMG">
 </body>
 </html>
 
