@@ -1,5 +1,5 @@
 patterns = {
-    "what is your age": [
+    "what is your Age": [
      "I am program i don't age ;)",
      "Ai don't age",
      "I am not human so i don't age",
